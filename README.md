@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elmoyeet
-- 💞️ I’m love Minecraft!
+- 💞️ I love Minecraft!
 - 🌱 I’m currently learning python and java
 - 👀 I’m developing Estelar Client
 
