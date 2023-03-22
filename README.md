@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @elmoyeet
 - 💞️ I love Minecraft!
-- 🌱 I’m currently learning python and java
-- 👀 I’m developing Estelar Client
+- 🌱 I’m currently learning Python and Java
+- 👀 I’m content creator too. TT: @.elmo.yeet
 
 <!---
 elmoyeet/elmoyeet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
